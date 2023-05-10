@@ -2,6 +2,9 @@
 
 > Standalone version of [Tailwind CLI](https://tailwindcss.com/docs/installation#using-tailwind-cli)
 
+## !!! PATCHED !!!
+This version of the CLI is patched to include postcss-import and postcss-nested
+
 ## Installation
 
 Download the appropriate platform-specific version of the `tailwindcss` cli from the [latest release](https://github.com/tailwindlabs/tailwindcss/releases).
