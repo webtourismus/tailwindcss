@@ -6,6 +6,10 @@ export function lazyPostcssImport() {
   return require('postcss-import')
 }
 
+export function lazyPostcssNested() {
+  return require('postcss-nested')
+}
+
 export function lazyAutoprefixer() {
   return require('autoprefixer')
 }
